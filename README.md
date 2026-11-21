@@ -17,37 +17,24 @@
 
 ## 👤 Who I Am
 
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Prajwal Patil"
-        self.education = "B.Sc. Computer Science"
-        self.role = "Data Analyst"
-        self.location = "Bangalore, India"
+<div align="center">
 
-        self.skills = [
-            "SQL", "MySQL", "Power BI",
-            "Microsoft Excel", "Python",
-            "Pandas", "Tableau"
-        ]
+### Hi, I'm Prajwal Patil! 👋
 
-        self.interests = [
-            "Data Analysis",
-            "Business Intelligence",
-            "Data Visualization",
-            "Dashboard Development"
-        ]
+**Data Analyst | SQL | Power BI | Excel | Python**
 
-        self.status = "Open to Data Analyst Opportunities"
+Turning raw data into meaningful insights and helping businesses make data-driven decisions.
 
-    def say_hello(self):
-        print("Turning data into meaningful insights!")
+</div>
 
-me = DataAnalyst()
-me.say_hello()
-```
+- 🎓 B.Sc. Computer Science Graduate
+- 📊 Trained in Data Analytics at Besant Technologies
+- 💻 Skilled in SQL, MySQL, Power BI, Excel, Python & Tableau
+- 🔍 Experienced in data cleaning, exploratory data analysis and visualization
+- 📈 Passionate about building interactive dashboards and solving business problems
+- 🎯 Open to Data Analyst opportunities
 
-<br/>
+
 
 ## 🚀 Featured Projects
 
