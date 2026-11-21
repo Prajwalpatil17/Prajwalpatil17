@@ -100,6 +100,8 @@ Analyzed a 48,000+ row pizza sales dataset using Excel, MySQL, and Power BI to e
 **Skills Gained:** SQL | Excel | Power BI | Tableau | Data Analysis
 
 
+
+
 ## 🛠️ Tech Stack
 
 **Programming & Database**
