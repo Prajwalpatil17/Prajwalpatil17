@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:7dd3fc&height=200&section=header&text=Prajwal%20Patil&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:7dd3fc&height=200&section=header&text=Prajwal%20Patil&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;SQL+%7C+MySQL+%7C+Power+BI+%7C+Excel+%7C+Python;Turning+Raw+Data+Into+Business+Insights;Building+Interactive+Dashboards" />
 
