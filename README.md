@@ -86,6 +86,20 @@ Analyzed a 48,000+ row pizza sales dataset using Excel, MySQL, and Power BI to e
 
 <br/>
 
+---
+
+## 🏆 Certifications
+
+### 🎓 Data Analytics Training – Besant Technologies, Bangalore
+
+- Completed professional training in Data Analytics.
+- Hands-on training in SQL, MySQL, Excel, Power BI and Tableau.
+- Practiced data cleaning, data analysis and visualization.
+- Developed practical analytics projects using real-world datasets.
+
+**Skills Gained:** SQL | Excel | Power BI | Tableau | Data Analysis
+
+
 ## 🛠️ Tech Stack
 
 **Programming & Database**
