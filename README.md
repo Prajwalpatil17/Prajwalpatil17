@@ -22,7 +22,7 @@ class DataAnalyst:
     def __init__(self):
         self.name = "Prajwal Patil"
         self.education = "B.Sc. Computer Science"
-        self.role = "Aspiring Data Analyst"
+        self.role = "Data Analyst"
         self.location = "Bangalore, India"
 
         self.skills = [
@@ -70,7 +70,7 @@ Analyzed 3,900+ customer transaction records to identify purchasing patterns, cu
 - Built an interactive Power BI dashboard.
 - Analyzed revenue, discounts, customer segments and subscription trends.
 
-🔗 [View Project](https://github.com/prajwalpatil17)
+🔗 [View Project](https://github.com/Prajwalpatil17/customer_shopping_behavior_analysis)
 
 ---
 
