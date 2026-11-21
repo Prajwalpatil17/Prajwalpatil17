@@ -1,75 +1,161 @@
-# 👋 Hi, I'm Prajwal Patil!
+ <div align="center">
 
-### 📊 Data Analyst | SQL | Power BI | Excel | Python
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:7dd3fc&height=200&section=header&text=Prajwal%20Patil&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
-I'm a Computer Science graduate passionate about transforming raw data into meaningful insights and helping businesses make data-driven decisions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;SQL+%7C+MySQL+%7C+Power+BI+%7C+Excel+%7C+Python;Turning+Raw+Data+Into+Business+Insights;Building+Interactive+Dashboards" />
 
-I enjoy working with data, identifying patterns, building interactive dashboards, and solving real-world business problems through analytics.
+<br/>
 
----
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-0969DA?style=for-the-badge&logo=briefcase&logoColor=white)
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=prajwalpatil17&color=0969DA&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/prajwalpatil17?label=Followers&style=flat-square&color=0969DA"/>
 
-- 🎓 B.Sc. in Computer Science graduate from Rani Channamma University.
-- 📊 Trained in Data Analytics at Besant Technologies, Bangalore.
-- 💻 Hands-on experience with SQL, Excel, Power BI, Python, and Tableau.
-- 🔍 Interested in Data Analysis, Data Visualization, and Business Intelligence.
-- 📈 Experienced in data cleaning, EDA, SQL querying, and dashboard development.
-- 🌱 Currently improving my analytical and technical skills.
-- 🎯 Looking for opportunities as a Data Analyst.
+</div>
 
----
+<br/>
 
-## 🛠️ Technical Skills
+## 👤 Who I Am
 
-| Category | Skills |
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Prajwal Patil"
+        self.education = "B.Sc. Computer Science"
+        self.role = "Aspiring Data Analyst"
+        self.location = "Bangalore, India"
+
+        self.skills = [
+            "SQL", "MySQL", "Power BI",
+            "Microsoft Excel", "Python",
+            "Pandas", "Tableau"
+        ]
+
+        self.interests = [
+            "Data Analysis",
+            "Business Intelligence",
+            "Data Visualization",
+            "Dashboard Development"
+        ]
+
+        self.status = "Open to Data Analyst Opportunities"
+
+    def say_hello(self):
+        print("Turning data into meaningful insights!")
+
+me = DataAnalyst()
+me.say_hello()
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🛍️ Customer Shopping Behavior Analysis
+
+Analyzed 3,900+ customer transaction records to identify purchasing patterns, customer preferences, revenue trends, and business insights.
+
+| Layer | Technology |
 |---|---|
-| Programming | Python, Pandas |
-| Database | MySQL, SQL |
-| Data Visualization | Power BI, Tableau |
-| Spreadsheet | Microsoft Excel |
-| Data Analysis | Data Cleaning, EDA, Data Transformation |
-| SQL Concepts | Joins, CTEs, Subqueries, Window Functions |
-| Power BI | DAX, Power Query, Interactive Dashboards |
+| Data Cleaning & EDA | Python, Pandas |
+| Database | MySQL |
+| Data Integration | SQLAlchemy |
+| Query & Analysis | SQL |
+| Visualization | Power BI |
 
----
-
-## 📂 Featured Projects
-
-### 1. Customer Shopping Behavior Analysis
-**Tools:** Python, Pandas, MySQL, Power BI
-
-- Analyzed 3,900+ customer transaction records.
-- Cleaned and transformed data using Python and Pandas.
+**Key Highlights:**
+- Cleaned and transformed 3,900+ customer records.
 - Connected Pandas with MySQL using SQLAlchemy.
-- Wrote 10 SQL queries using CTEs, window functions, subqueries, and aggregations.
-- Developed an interactive Power BI dashboard to analyze customer behavior, revenue, discounts, and subscription trends.
+- Developed 10 SQL queries using CTEs, window functions, joins and subqueries.
+- Built an interactive Power BI dashboard.
+- Analyzed revenue, discounts, customer segments and subscription trends.
 
-### 2. Adidas Sales Dashboard
-**Tools:** Power BI, DAX
-
-- Developed an interactive sales dashboard to analyze Adidas sales performance.
-- Analyzed revenue, units sold, and profit margins.
-- Compared sales across regions, states, and retailers.
-- Implemented drill-through pages and Top N filters for deeper insights.
+🔗 [View Project](https://github.com/prajwalpatil17)
 
 ---
 
-## 📊 GitHub Statistics
+### 🍕 Pizza Sales Performance Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwalpatil17&show_icons=true&theme=tokyonight)
+Analyzed a 48,000+ row pizza sales dataset using Excel, MySQL, and Power BI to evaluate sales performance and generate actionable business insights.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpatil17&layout=compact&theme=tokyonight)
+| Layer | Technology |
+|---|---|
+| Data Validation & Cleaning | Microsoft Excel |
+| Database | MySQL |
+| KPI Calculation | SQL |
+| Data Analysis | GROUP BY, Aggregations, Date Functions, Subqueries |
+| Visualization | Power BI |
 
----
+**Key Highlights:**
+- Validated data types and cleaned 48,000+ rows in Excel.
+- Calculated key KPIs including Revenue, Average Order Value, Total Orders, and Pizzas Sold.
+- Used SQL aggregations, GROUP BY, date functions, and subqueries to analyze sales trends.
+- Identified top and bottom-performing pizza products.
+- Built an interactive Power BI dashboard with KPI cards and visualizations.
+- Analyzed sales trends, pizza category, size performance, and product performance.
+- Generated actionable insights to support sales monitoring and data-driven decisions.
 
-## 🤝 Connect With Me
+🔗 [View Project](https://github.com/prajwalpatil17)
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/prajwalpatil17/)
-- 💻 GitHub: [github.com/prajwalpatil17](https://github.com/prajwalpatil17)
+<br/>
 
----
+## 🛠️ Tech Stack
 
-⭐ *"Turning data into insights, and insights into better decisions."*
+**Programming & Database**
 
-Thanks for visiting my profile! 😊
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+**Data Analytics & Visualization**
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prajwalpatil17&show_icons=true&theme=nord&border_color=0969DA&title_color=0969DA"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpatil17&layout=compact&theme=nord&border_color=0969DA&title_color=0969DA"/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=prajwalpatil17&theme=nord&border=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA"/>
+
+</div>
+
+<br/>
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/prajwalpatil17/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/prajwalpatil17">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💡 "Turning Data Into Insights, and Insights Into Decisions."
+
+⭐ Thanks for visiting my GitHub profile!
+
+**Let's explore the power of data together!** 🚀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:7dd3fc&height=120&section=footer" width="100%"/>
